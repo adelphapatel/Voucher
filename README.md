@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=Discord+Advanced+Register+Bot+%23By+Be%C5%9F)](https://git.io/typing-svg)
+
 
 **Discord sunucularınızda kullanabileceğiniz setuplı son model v14 advanced kayıt botu.**
 <br> </br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?theme=light&hideDiscrim=false&hideBadges=false&bg=376074&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla)](https://discord.com/users/928259219038302258)
+
 <br> </br>
 [![Discord Banner](https://cdn.discordapp.com/attachments/950167988127006821/1090467302719369246/2023-03-29_05-44-23_2.png)](https://discord.gg/luppux)
 <br> </br>
